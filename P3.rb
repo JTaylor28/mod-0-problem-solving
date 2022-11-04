@@ -3,7 +3,7 @@
 
 stuff = ["something","some","doing","do","going","go"]
 stuff.each do |st|
-    if st.include?("ings") == true
+    if st.include?("ing") == true
         puts st
     end
 end
