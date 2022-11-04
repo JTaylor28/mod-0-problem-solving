@@ -6,9 +6,9 @@
 #     * .length for method
 #  - print names |letter| 
 
-letters = ["aa","bbbb","cccccccc","ddddddd","eeeeeee","ffff","ggggggg"]
-letters.each do |letter|
-    if letter.length == 4
-        p letter
-    end
-end
+# letters = ["aa","bbbb","cccccccc","ddddddd","eeeeeee","ffff","ggggggg"]
+# letters.each do |letter|
+#     if letter.length == 4
+#         p letter
+#     end
+# end
